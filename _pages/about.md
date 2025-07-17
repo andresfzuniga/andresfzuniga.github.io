@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate in mathematics at the University of Florida. I'm broadly interested in differential geometry and algebraic topology, but my current research revolves around using techniques from Riemannian geometry to solve optimization problems. In particular, I'm working on a better understanding of geodesic convexity on manifolds in order to improve algorithms relevant to statistics, medicine, machine learning, and more.
+I'm a PhD candidate in mathematics at the University of Florida, advised by <a href='https://people.clas.ufl.edu/groisser/'>David Groisser</a>. I'm broadly interested in differential geometry and algebraic topology, but my current research revolves around using techniques from Riemannian geometry to solve optimization problems. In particular, I'm working on a better understanding of geodesic convexity on manifolds in order to improve algorithms relevant to statistics, medicine, machine learning, and more.
 
 Website still under construction. Please ignore all references to Nobel Prize–winning physicists.
 
